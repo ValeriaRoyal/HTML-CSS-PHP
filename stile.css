@@ -1,0 +1,34 @@
+body{
+
+	background-color: RoyalBlue;
+	
+}
+
+p{
+ text-align: justify-all;
+ font-family: Arial;
+ font-size: 18px; 
+ color:#000066 ;
+
+}
+
+h1{
+	text-align: center;
+	font-family: "Times New Rome", Times, serif;
+	color:#3366ff;
+
+}
+h2{
+	text-align: center;
+	font-family: Verdana;
+	color: black;
+}
+
+#bord{
+	width: 80%;
+	border: 5px solid black;
+	padding: 4%;
+	margin: 5%;
+	background-color: lightblue;
+}
+
